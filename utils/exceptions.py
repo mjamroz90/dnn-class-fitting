@@ -1,0 +1,2 @@
+class RandomizeTestSetException(Exception):
+    pass
